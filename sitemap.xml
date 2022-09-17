@@ -4,25 +4,7 @@
   <url>
     <loc>https://testitok.github.io/manifest.json</loc>
     
-    <lastmod>2022-09-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://testitok.github.io/posts/fda4c161.html</loc>
-    
-    <lastmod>2022-09-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://testitok.github.io/posts/b6f8893b.html</loc>
-    
-    <lastmod>2022-09-16</lastmod>
+    <lastmod>2022-09-17</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +13,7 @@
   <url>
     <loc>https://testitok.github.io/posts/d95d7e09.html</loc>
     
-    <lastmod>2022-09-16</lastmod>
+    <lastmod>2022-09-17</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +22,43 @@
   <url>
     <loc>https://testitok.github.io/posts/4a17b156.html</loc>
     
-    <lastmod>2022-09-16</lastmod>
+    <lastmod>2022-09-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://testitok.github.io/posts/fda4c161.html</loc>
+    
+    <lastmod>2022-09-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://testitok.github.io/posts/b6f8893b.html</loc>
+    
+    <lastmod>2022-09-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://testitok.github.io/posts/2ff1d881.html</loc>
+    
+    <lastmod>2022-09-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://testitok.github.io/posts/85e85e2c.html</loc>
+    
+    <lastmod>2022-09-17</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,12 +67,33 @@
 
   <url>
     <loc>https://testitok.github.io/</loc>
-    <lastmod>2022-09-16</lastmod>
+    <lastmod>2022-09-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
 
+  
+  <url>
+    <loc>https://testitok.github.io/categories/%E6%97%A5%E5%B8%B8%E5%94%A0%E5%8F%A8/</loc>
+    <lastmod>2022-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://testitok.github.io/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/</loc>
+    <lastmod>2022-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://testitok.github.io/categories/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/</loc>
+    <lastmod>2022-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
