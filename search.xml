@@ -4,16 +4,16 @@
   
     
     <entry>
-      <title>路由器联动wireshark抓包</title>
-      <link href="/posts/2ff1daaa.html"/>
-      <url>/posts/2ff1daaa.html</url>
+      <title>不同的历史观</title>
+      <link href="/posts/472df666.html"/>
+      <url>/posts/472df666.html</url>
       
-        <content type="html"><![CDATA[<p>通过cmd来运行一下指令就可以，用openwrt路由器抓取指定数据包，之后通过通道来传给wireshark来实时分析数据了。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh root@192.168.2.1 &quot;tcpdump -i br-lan -s 0 -w - -U host 192.168.2.222&quot; | &quot;D:\wireshark\Wireshark.exe&quot; -k -i -</span><br></pre></td></tr></table></figure><p>相关详细信息来自</p><p><a href="https://bbs.hassbian.com/thread-8959-1-1.html">https://bbs.hassbian.com/thread-8959-1-1.html</a></p>]]></content>
+        <content type="html"><![CDATA[<p>有句话讲得好，历史书从来是秦始皇一部，孟姜女一部。</p><p>仔细说下昨天提的安史之乱，为什么我说这个要和南北榜案一起看<br>历史最神奇之处就在于，同样的内容，不同视角会有完全不同的结论</p><p>过去我读到安史之乱时，视角是“我大唐”，<br>那结论自然就是安禄山掀起的叛乱造成生民涂炭。<br>绝大部分历史书也是这个结论，这是一场在皇帝昏庸情况下野心家掀起的叛乱。</p><p>但这无法解答一个问题，不是说历史是由人民创造的吗？<br>如果历史是由人民创造，怎么一两个野心家就坏事了呢？<br>后来我发现，如果你不把视角代入“我大唐”这个宏观视角，而代入普通民众，很多问题才能看到。</p><p>唐朝起于关陇贵族，并且执行“关中本位”理念，发展到玄宗时期，这个集团已经极大垄断了上层利益和上升通道。先是利用特权大量兼并土地，接着又隐瞒田户抗拒赋税，明明是亿万富翁，一查却负债累累不用纳税，朝廷在关中大户这里收不上税，自然就将财税压力压给其他地区，比如江南，河北等。久而久之贫富差距进一步扩大，一边花天酒地，一边苛捐杂税，朱门酒肉臭，路有冻死骨。</p><p>那有人可能问了，隋唐有科举啊，科举可以打通上下阶层流通渠道啊？此时科举这个渠道刚刚萌芽，主渠道还掌握在世家大族那里。唐朝300年，开科取士268次，所招录的进士7448人。平均每次招录27人，这个人数显然无法填补帝国官僚体系，并且因为占据优势，世家大族还可以控制科举。</p><p>比如之前说洪武南北榜案一个北方士子都不取时，很多人觉得飞龙骑脸过于夸张对吧。<br>那这有个更神奇的例子：</p><p>天宝六年（747）， 玄宗“欲广求天下之士”，传诏开科取士。然后宰相李林甫表示，这么大规模的取士，参加科考的肯定鱼龙混杂，一些卑贱愚聩之人恐怕会胡言乱语扰乱圣听，再说这么多人一下子涌进京城也不利于稳定。他建议让郡县长官先对士子加以甄选，优秀者再来京师复试。</p><p>玄宗居然神奇的同意了~授命他全权组织，于是李林甫制定了最严苛的程序，最刻薄的条件，报名这关就把无数人卡死，然后考试内容又定的无比苛刻，诗、词、歌、赋、书、数，外语高尔夫健美操统统考一遍，稍有差错直接淘汰。</p><p>最后结果就是，一个人都没通过。(此处史学界有争议，不是无一人及第，而是无一布衣及第）。<br>按理说国家级选拔人才的考试，最后一个人都没录取这不是扯淡吗？<br>但更神奇的来了，面对这个结果，李林甫表示，一个人都没录取，这代表什么呢？野无遗贤啊！天下贤才都已经在为国报效而没有遗漏，圣朝无隐者，人尽其材物尽其用，尧舜在世亦不过如此！</p><p>情况不是小好，而是大好！<br>面对这个说法，唐玄宗什么态度呢？认了</p><p>对，我觉得不是“信了”，而是“认了”<br>因为历史上这个故事经常被用来形容李林甫的嫉贤妒能和唐玄宗的昏庸。<br>但我觉得这显然太过儿戏，再昏庸也不至于这样。唐玄宗会想到“欲广求天下之士”显然是明白大唐问题的，只是李林甫最后能交上来一份无人通过的结果，意味着整个官僚集团已经上上下下完成抱团共进退了，这个情况下有魄力的可以学老朱大开杀戒，否则贵为大唐天子也只能和稀泥。</p><p>当然，哪个情况并不重要，主观昏庸还是客观摆烂，都证明了此时人才上升通道确实出现了问题。</p><p>下有苛捐杂税土地兼并，上的上升渠道又出现问题，大唐老百姓该怎么办呢？<br>一般到了这个时候，活不下去也没出路的流民大量出现，差不多就要喊“王侯将相宁有种”了。</p><p>但在当时，还有一个选择——去河朔三镇等边关藩镇。<br>为什么？<br>因为河朔三镇的上升通道还比较良好，苛捐杂税也没那么夸张<br>那又是为什么河朔三镇的上升通道和苛捐杂税问题较好呢？<br>——因为不好的都死了</p><p>河朔三镇简单来说就是幽燕之地+河北，幽燕作为帝国边陲屏障，是大唐和契丹.奚等少数民族拉锯前线，契丹骑兵时不时的就要来打草谷。</p><p>打草谷显然不能对着你身无分文的农民打对吧，那对着谁呢？谁有粮抢谁，<br>那谁有粮呢？大地主门阀世家</p><p>所以在这个定期格式化的环境下，河朔三镇的土地兼并问题反而不那么严重。<br>物理均田地也是均田地，就问你田地均了没有？</p><p>而活下来的地主门阀节度使们，也特别看重人才<br>是真心诚意百分百比黄金都真的看重，绝对没有装样子骗名声<br>因为不重视人才就会打输，打输就要去死。</p><p>所以有的时候你必须承认，社会达尔文真的有用，圣人教一万遍教不会的道理，丛林社会一天就学会了，在这个要么打赢要么去死的环境下，大家都变得特别讲道理明是非。</p><p>于是当时许多流民和无数郁郁不得志的小镇做题家们，宁可忍受战乱风险，也要闯一闯河朔边关。<br>毕竟，在你关陇大老爷治下，累死累活是我，升官发财是你，回头还说是我不努力，这还玩什么？<br>河朔边镇虽然有战乱风险，但是只要我出了力，至少有我一份功，战乱会死，苛捐杂税也会死，那我凭什么不挑有回报的？</p><p>古人其实总结过这个现象——“苛政猛于虎也”。</p><p>理解了这个背景，你可能对某个课本知识点会有新的认知<br>——边塞诗人</p><p>比如大家熟悉的岑参，安西节度使高仙芝幕府，高适，河西节度使哥舒翰幕府，王昌龄没在固定节度使，仕途失意游历各州。</p><p>翻译翻译什么叫边塞诗人<br>低情商：人才不得志都去边塞了<br>高情商：我大唐诗人觉悟特别高，就不喜欢待在长安，就要去做边塞诗人！</p><p>那有人问了，这么多流民和不得志人才往河朔三镇去了，大唐看不到吗？<br>我唐明皇又不是瞎子当然看到了，不然你以为胡将们怎么来的？<br>你一群寒门学子不得志人才往藩镇聚集，兵强马壮又有人才，谁不知道容易闹大新闻？那怎么办？我只能重用胡人为将，希望形成胡汉互相制衡的局面。<br>所以许多人觉得唐玄宗眼瞎居然重用那么多胡人为将，NONONO，他眼不瞎，他只是没办法。</p><p>各种意义的没办法。<br>你要不重用胡将，拧成一股绳的河朔三镇节度使就容易尾大不掉，<br>你要限制各路节度，那你得改革中央官府，限制土地兼并，把位置空出来吸纳人才，<br>但中央官府一群关陇贵族，你李唐自己也是其中之一，你能改自己命吗？<br>不能吧？那还说什么？</p><p>但问题在于，胡人为将，就解决问题了吗？显然没有啊，财税问题解决了吗？上升通道打开了吗？又要马儿跑又不给马儿吃草，这个雷是早晚要炸的。<br>启用胡人？胡人也有梦想也要升官啊。</p><p>安禄山官拜节度使后，升无可升，怎么办？兼任多地节度使，但这显然是治标不治本，于是最后情况就是——阶级矛盾压倒了民族矛盾，河朔三镇的汉人胡人乃至被关陇打压的山东门阀世家站到一个战壕形成共识：<br>枪在手，跟我走，杀三郎，抢碉楼，冲天香阵透长安，满城尽带黄金甲！</p><p>所以，安史之乱第二年安禄山就死了，安庆绪站出来继续打，安庆绪死，史思明出来打，史思明死，史朝义接着干，直到史朝义死了，叛军还在打。河朔三镇叛军硬钢整个大唐打了整整八年。</p><p>这显然无法用安禄山个人野心来解释了，想打的不止他一个，而是一群人想掀桌。<br>没有安史之乱，也会有危史之乱。</p><p>但接下来的剧情，才是最有意思的地方。</p><p>安史之乱后，这些不得志小镇做题家们的问题，解决了吗？<br>某种意义上还真解决了</p><p>由于河朔三镇在安史之乱中展现出的超强战斗力，大唐最后只能采用怀柔政策。<br>安史叛将李怀仙、田承嗣、李宝臣分别被唐代宗封为卢龙节度使、魏博节度使、成德节度使。<br>清河（今河北故城县）崔氏在安史之乱前只出了两位宰相，而在安史之乱过后陆续出了八个宰相。<br>赵郡（今河北省赵县）李氏出了十七个宰相<br>博陵（今河北省安平县）崔氏出了十五个宰相<br>范阳（今河北省涿州市）卢氏出了一百多名进士</p><p>有个更直观的，安禄山手下大将，击败封常清哥舒翰，拿下潼关打进长安的崔乾佑，就是来自博陵崔氏，人家族不但没株连还出宰相呢。</p><p>最戏剧性的是薛嵩，薛仁贵后人，注意是正牌薛仁贵不是挖野菜故事里那个<br>当年薛仁贵跟着李二凤出生入死南征北战，三箭定天山名震天下，可最后并没有进凌烟阁<br>薛嵩呢，先是跟着安禄山官拜节度使，后来又跟着安庆绪，再跟着史思明，最后弃暗投明，然后反而进了凌烟阁~</p><p>那么，寒门士子们呢？<br>唐代宗的时候宰相有十二人。雍王适。苗晋卿。裴遵庆。元载。李辅国。刘晏。李岘。王缙。杜鸿渐。裴冕。杨绾。常衮。”除了后来成为皇帝（唐德宗）的“李适”，十一人中出身门阀世家的有4人，出身庶族寒门的2人，进士出身的6人。<br>关陇贵族和山东世家一顿火拼，位置空了上升通道也打开了，大家也发现了寒门士子的机会必须得给不然哪天又要搞事，寒门士子开始更快冒头。</p><p>那老百姓呢？<br>河朔三镇居民平均寿命是当时唐朝最高的，经济发达程度可以和扬州媲美，甚至比扬州还略高。<br>为什么？因为你不能毫无忌惮的搞土地兼并也不能搞苛捐杂税，河朔三镇牙兵们都是当地有产者，你要加税兼并土地，那是真的会找你拼命。（罗马公民兵体系，罗马正统在中华！）<br>甚至别说苛捐杂税，你少发军饷克扣赏钱，那都要血流成河。</p><p>简单来说，安史之乱后<br>上层的山东门阀世家们不再被打压了，<br>中层的寒门士子们有更多上升机会了，<br>连底层的老百姓的苛捐杂税都少了</p><p>“为什么江南中原的赋税加到那么多？”<br>——兵粮富足，不加以权衡恐尾大不掉<br>“那你怎么不去加河朔三镇的赋税呢？”<br>——废话，当然是因为对方真的会反啊！</p><p>所以你是不是终于能理解历史书记录的那个奇特现象了？<br>安禄山死后六十余年，安、史二人仍被幽州百姓奉为“二圣”祭拜。<br>很多历史书对此解释为当地老百姓愚昧无知，可人都已经死那么久了，大家还能无知这么久吗？</p><p>世界是物质的，任何现象必然都有其背后原因<br>你觉得无法理解往往是因为没有找到本质原因，缺乏能够说清这个现象的理论，于是只能简单归纳对方无知愚昧，实际上，所有这一切情况，你会发现都印证了这两年大火的一个理论<br>——“统战价值”</p><p>安禄山确实是叛乱，但无形中给山东百姓山东门阀士子打出了统战价值。</p><p>所以你现在可能明白了，为什么我说明洪武南北榜案和安史之乱要连起来看<br>当年关陇贵族无视寒门士子打压山东门阀，觉得对方会乖乖等死，可事实是你不给他们“公道”，他们就会聚到藩镇给你一个“公道”。</p><p>现在你江南大儒们觉得不录取北方士子对方也只能干瞪眼无能狂怒？<br>老朱表示这绝对不可能嘛，别人不知道我还能不知道人没活路会干嘛？</p><p>作为汉唐后人，我们要批判安禄山的叛乱作为，让盛唐荣光难在<br>但作为普通大众，你也要明白其中大众本位原理。安史之乱不是因，而是果。他不是一个野心家凭借一己之力掀起的叛乱，而是大唐走到百年之际土地兼并人才上升各种问题的一个集中爆发。</p><p>历史书会告诉你叛乱，但很难和你说清为什么有叛乱</p><p>有句话讲得好，历史书从来是秦始皇一部，孟姜女一部。<br>历史确实都是由大众创造的，如果你觉得困惑一两个野心家带偏大众，最大的可能是，你没有看到水面下的暗流涌动。</p>]]></content>
       
       
       <categories>
           
-          <category> 学习记录 </category>
+          <category> 日常唠叨 </category>
           
       </categories>
       
@@ -29,6 +29,25 @@
       
         <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>路由器联动wireshark抓包</title>
+      <link href="/posts/2ff1daaa.html"/>
+      <url>/posts/2ff1daaa.html</url>
+      
+        <content type="html"><![CDATA[<p>通过cmd来运行一下指令就可以，用openwrt路由器抓取指定数据包，之后通过通道来传给wireshark来实时分析数据了。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh root@192.168.2.1 &quot;tcpdump -i br-lan -s 0 -w - -U host 192.168.2.222&quot; | &quot;D:\wireshark\Wireshark.exe&quot; -k -i -</span><br></pre></td></tr></table></figure><p>相关详细信息来自</p><p><a href="https://bbs.hassbian.com/thread-8959-1-1.html">https://bbs.hassbian.com/thread-8959-1-1.html</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习记录 </category>
+          
+      </categories>
       
       
     </entry>
